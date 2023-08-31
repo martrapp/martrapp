@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![@martrapp Astro contributions](https://astro.badg.es/v1/contributor/martrapp.svg)](https://astro.badg.es/v1/contributor/martrapp/)
 <!--
 **martrapp/martrapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

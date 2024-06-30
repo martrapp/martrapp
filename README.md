@@ -2,5 +2,5 @@
 I have often benefited from open source and am now happy to be able to give something back!\
 I am currently enjoying being a maintainer at https://github.com/withastro.
 
-[![@martrapp Astro contributions](https://astro.badg.es/v1/contributor/martrapp.svg)](https://astro.badg.es/v1/contributor/martrapp/)
+<!-- [![@martrapp Astro contributions](https://astro.badg.es/v1/contributor/martrapp.svg)](https://astro.badg.es/v1/contributor/martrapp/) -->
 ![](https://github-readme-stats.vercel.app/api?username=martrapp&show_icons=true&theme=transparent&bg_color=00000000)

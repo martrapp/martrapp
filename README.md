@@ -5,7 +5,6 @@ I am currently enjoying being a maintainer at https://github.com/withastro.
 I also enjoy developing tooling related to the View Transition API.\
 Check out [vtbot, the Bag of Tricks for Astro's view transitions](https://events-3bg.pages.dev) and the [framework-agnostic @vtbag site](https://vtbag.pages.dev)
 
-### 💙 You can sponsor my work through [GitHub sponsors](https://github.com/sponsors/martrapp). 
 #### Follow the [The Bag](https://bsky.app/profile/vtbag.dev) and [me](https://bsky.app/profile/martr.app) on Bluesky!
 
 <!-- [![@martrapp Astro contributions](https://astro.badg.es/v1/contributor/martrapp.svg)](https://astro.badg.es/v1/contributor/martrapp/) -->

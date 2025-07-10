@@ -8,4 +8,7 @@ Check out [vtbot, the Bag of Tricks for Astro's view transitions](https://events
 #### Follow the [The Bag](https://bsky.app/profile/vtbag.dev) and [me](https://bsky.app/profile/martr.app) on Bluesky!
 
 <!-- [![@martrapp Astro contributions](https://astro.badg.es/v1/contributor/martrapp.svg)](https://astro.badg.es/v1/contributor/martrapp/) -->
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=martrapp&show_icons=true&theme=transparent"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martrapp&layout=compact&hide=mdxsize_weight=0.5&count_weight=0.5&theme=transparent&langs_count=10">
+<div clas="image-row" style="display: flex; align-items: stretch; gap: 1em;">
+  <img src="https://github-readme-stats.vercel.app/api?username=martrapp&show_icons=true&theme=transparent" style="height: 150px; width: auto; display: block;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martrapp&layout=compact&hide=MDX&size_weight=0.5&count_weight=0.5&theme=transparent&langs_count=6" style="height: 150px; width: auto; display: block;">
+</div>

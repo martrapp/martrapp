@@ -1,10 +1,11 @@
 ### Hi there 👋 I'm Martin!
 I have often benefited from open source and am now happy to be able to give something back!\
-I am currently enjoying being a maintainer at https://github.com/withastro.
+I am a maintainer at https://github.com/withastro.
 
-I also enjoy developing tooling related to the View Transition API. <img src="https://img.shields.io/npm-stat/dy/martrapp?style=plastic" style="display: inline-block; margin-top: 10px">
+I also enjoy [developing tooling](https://www.npmjs.com/~martrapp) related to the View Transition API.\
+![overall npm downloads](https://img.shields.io/npm-stat/dy/martrapp?style=plastic)
 
-Check out [vtbot, the Bag of Tricks for Astro's view transitions](https://events-3bg.pages.dev) and the [framework-agnostic @vtbag site](https://vtbag.pages.dev)
+Check out [vtbot, the Bag of Tricks for Astro's view transitions](https://events-3bg.pages.dev) and the [framework-agnostic @vtbag site](https://vtbag.pages.dev).
 
 
 <!-- [![@martrapp Astro contributions](https://astro.badg.es/v1/contributor/martrapp.svg)](https://astro.badg.es/v1/contributor/martrapp/) -->
